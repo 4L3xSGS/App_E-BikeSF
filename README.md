@@ -1,4 +1,5 @@
 # E-Bikes Lightning Web Components Sample Application
+## [https://resourceful-goat-fd5kj0-dev-ed.trailblaze.my.site.com/ebikes/s/]
 
 [![CI](https://github.com/trailheadapps/ebikes-lwc/actions/workflows/ci.yml/badge.svg)](https://github.com/trailheadapps/ebikes-lwc/actions/workflows/ci.yml) [![codecov](https://codecov.io/gh/trailheadapps/ebikes-lwc/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/ebikes-lwc)
 
